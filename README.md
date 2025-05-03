@@ -18,7 +18,6 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Contributing](#contributing)
-* [License](#license)
 
 ## About The Project
 
@@ -63,8 +62,3 @@ cd Hospital-Landing-Website
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Thank you for choosing the Hospital-Landing-Website🚀.
